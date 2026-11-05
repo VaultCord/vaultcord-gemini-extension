@@ -1,0 +1,14 @@
+{
+  "name": "vaultcord",
+  "version": "1.0.0",
+  "description": "Manage VaultCord-protected Discord servers: members, verification, backups and security.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "vaultcord": {
+      "httpUrl": "https://ai.vaultcord.com/mcp",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}
